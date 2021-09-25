@@ -1,0 +1,19 @@
+{
+  "name": "hello-vuepress",
+  "version": "0.0.1",
+  "description": "First time installing vuepress",
+  "main": "index.js",
+  "authors": {
+    "name": "Tony Grimes",
+    "email": "acidtone@tonygrimes.com"
+  },
+  "repository": "git@github.com:pixiepit/hello-vuepress.git/hello-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
